@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> 
-- ⚡ Fun fact **I'm funny😅**
+<img align="right" alt="coding" width="400px" src="https://github.com/Raj-Aditya-27/Raj-Aditya-27/assets/138434890/d40b9533-c61b-4854-bba0-cb700a621eb3"> 
+- ⚡ Fun fact <strong>I'm funny</strong>😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya raj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-raj-700051273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya raj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya_raj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_raj_01" height="30" width="40" /></a>
 </p>
 
