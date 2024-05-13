@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-aditya-27" alt="raj-aditya-27" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://www.usatranslate.com/wp-content/uploads/2012/07/Translation-Risk.png">
 
 - 🌱 I’m currently learning **MongoDB, Express Js, Node Js**
 
