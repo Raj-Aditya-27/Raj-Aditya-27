@@ -56,6 +56,9 @@
       height="40"
     />
   </a>
+
+  
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -90,6 +93,15 @@
     />
   </a>
 
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+  alt="php" 
+  width="40" 
+  height="40"
+  /> 
+</a> 
   
   
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -136,7 +148,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-aditya-27&show_icons=true&locale=en&layout=compact" alt="raj-aditya-27" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-aditya-27&show_icons=true&locale=en" alt="raj-aditya-27" /></p>
 
