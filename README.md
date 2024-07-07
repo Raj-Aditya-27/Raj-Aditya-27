@@ -29,3 +29,5 @@ I'm Aditya Raj, a passionate web developer. I love building secure and efficient
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adityarajofficial027@gmail.com)
 
 Let's collaborate and build something great together!
+
+![snake gif](https://github.com/Raj-Aditya-27/Raj-Aditya-27/blob/output/github-contribution-grid-snake.gif)
