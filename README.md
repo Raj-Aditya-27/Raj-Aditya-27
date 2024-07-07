@@ -30,4 +30,4 @@ I'm Aditya Raj, a passionate web developer. I love building secure and efficient
 
 Let's collaborate and build something great together!
 
-![snake gif](https://github.com/Raj-Aditya-27/Raj-Aditya-27/blob/output/github-contribution-grid-snake.gif)
+
