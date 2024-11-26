@@ -32,7 +32,7 @@ Let's collaborate and build something great together!
 
 # 🏆 GSSOC'24 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=IkkiOcean">
+  <div>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
@@ -42,7 +42,7 @@ Let's collaborate and build something great together!
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />    
-  </a>
+  </div>
 </div>
 
 
