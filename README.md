@@ -1,25 +1,28 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-## About Me
-I'm Aditya Raj, a passionate web developer. I love building secure and efficient web applications using cutting-edge technologies. My journey started with C and C++, and I've since embraced the power of JavaScript to develop scalable and robust applications. I'm well-versed in modern frontend frameworks like React.
-
-## 🛠️ Skills
-
-### Languages
-
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## Welcome to My GitHub!
 
 
-### Front-End Development
+I'm Aditya Raj, a final-year student passionate about frontend development and building intuitive, user-friendly web experiences.
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+I love exploring new technologies and staying up to date with the ever-evolving world of web development. Currently, I’m diving into Next.js and other trending frameworks to expand my skill set.
+
+I believe in learning by doing—if there's something I don't know, I'm always eager to figure it out!
+
+## Skills
+
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+
+
 
 
 ## 🔗  Connect with Me
