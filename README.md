@@ -1,13 +1,15 @@
 ## Welcome to My GitHub!
 
 
-I'm Aditya Raj, a final-year student passionate about frontend development and building intuitive, user-friendly web experiences.
+I'm Aditya Raj, a final-year student passionate about web development and building intuitive, user-friendly web experiences.
 
-I love exploring new technologies and staying up to date with the ever-evolving world of web development. Currently, I’m diving into Next.js and other trending frameworks to expand my skill set.
+I love exploring new technologies and staying up to date with the ever-evolving world of web development.
 
 I believe in learning by doing—if there's something I don't know, I'm always eager to figure it out!
 
 ## Skills
+
+
 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -21,6 +23,9 @@ I believe in learning by doing—if there's something I don't know, I'm always e
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
 
 
 
