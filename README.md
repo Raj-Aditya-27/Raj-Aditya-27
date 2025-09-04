@@ -1,7 +1,7 @@
 ## Welcome to My GitHub!
 
 
-I'm Aditya Raj, a final-year student passionate about web development and building intuitive, user-friendly web experiences.
+I'm Aditya Raj, passionate about web development and building intuitive, user-friendly web experiences.
 
 I love exploring new technologies and staying up to date with the ever-evolving world of web development.
 
